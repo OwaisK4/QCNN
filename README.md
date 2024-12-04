@@ -107,9 +107,11 @@ This project deals with the efficient use of QML by leveraging the principles of
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Owais Ali Khan - [21K-3298](k213298@nu.edu.pk) - owaisalikhan2003@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Hassaan Gatta - [21K-3177](k213177@nu.edu.pk)
+
+Babar Subzwari - [21K-3202](k213202@nu.edu.pk)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,6 +120,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Choose an Open Source License](https://choosealicense.com)
+* [Qiskit](https://www.ibm.com/quantum/qiskit)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Colab](https://colab.google/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

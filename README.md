@@ -4,7 +4,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <!-- ![Convolutional layer](sample/qiskit.png) -->
+  <img src="sample/qiskit.png" alt="Logo" width="80" height="80">
+
 
   <h3 align="center">Image Classification Using Quantum Machine
 Learning</h3>
@@ -33,7 +35,6 @@ Learning</h3>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -43,10 +44,17 @@ Learning</h3>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This paper deals with the efficient use of QML by leveraging the principles of Quantum Mechanics for parameter reduction and accurate image processing. QCNNs highlights the benefits and challenges of employing quantum techniques in medical image classification, outperforming CNN models in terms of precision and recall when it comes to handling datasets of higher dimensionality, namely MNIST.
+This project deals with the efficient use of QML by leveraging the principles of Quantum Mechanics for parameter reduction and accurate image processing. QCNNs highlights the benefits and challenges of employing quantum techniques in medical image classification, outperforming CNN models in terms of precision and recall when it comes to handling datasets of higher dimensionality, namely MNIST.
 
-![Calculated loss]("/sample/loss.jpeg")
-
+* Ansatz <br>
+  Convolutional layer
+![Convolutional layer](sample/conv_layer.jpeg)
+  Pooling layer
+![Pooling layer](sample/pooling_layer.jpeg)
+* QCNN architecture
+![QCNN](sample/QCNN.png)
+* Loss (calculated over 60 epochs)
+![Calculated loss](sample/loss.jpeg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

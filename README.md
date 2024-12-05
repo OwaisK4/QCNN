@@ -109,7 +109,7 @@ This project deals with the efficient use of QML by leveraging the principles of
 
 Owais Ali Khan - [21K-3298](k213298@nu.edu.pk) - owaisalikhan2003@example.com
 
-Hassaan Gatta - [21K-3177](k213177@nu.edu.pk)
+Hassaan Gatta - [21K-3177](k213177@nu.edu.pk) - hassaangatta@gmail.com
 
 Babar Subzwari - [21K-3202](k213202@nu.edu.pk)
 
